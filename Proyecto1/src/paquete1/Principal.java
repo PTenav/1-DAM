@@ -5,5 +5,6 @@ public class Principal {
 		System.out.println("Estamos haciendo control de versiones con Git");
 		System.out.println("Despues de commit");
 		System.out.println("Mi ultimo comentario");
+		System.out.println("Pedro");
 	}
 }
